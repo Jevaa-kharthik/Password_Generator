@@ -61,7 +61,7 @@ This script generates passwords based on user input, such as the victim's name, 
   - If you are using Linux Environment : 
     
     ```bash
-      sudo apt install crunch
+    sudo apt install crunch
     ```
     
 - If you are using MacOS Environment :
